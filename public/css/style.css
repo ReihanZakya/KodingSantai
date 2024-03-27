@@ -49,6 +49,10 @@ html {
     box-shadow: 5px 5px 5px lightblue;
 }
 
+.f-lightblue {
+    color: #77A6F7;
+}
+
 .kebawahh {
     margin-top: auto;
     position: absolute;
@@ -71,4 +75,45 @@ html {
 /* KELEBIHAN */
 .kelebihan {
     background-color: #D3E3FC;
+}
+
+/* Mulai Pembelajaran */
+.card {
+    border-radius: 0;
+    border: 0;
+}
+
+/* FOOTER */
+.footer {
+    padding: 50px 0;
+}
+
+.footer h5 {
+    color: white;
+}
+
+.footer p {
+    color: white;
+}
+
+.footer ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer ul li a {
+    color: white;
+}
+
+.footer ul li a i {
+    font-size: 24px;
+}
+
+.footer hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.footer p.text-white {
+    margin-bottom: 0;
 }
